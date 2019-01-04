@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{A02C5EBA-1462-4187-AD00-34D9161A674C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="lgpg/utilities.cs">
+    <Files>
+      <File FileName="lgpg/Program.cs" Line="22" Column="15" />
+      <File FileName="lgpg/utilities.cs" Line="15" Column="1" />
+      <File FileName="lgpg/lgSimInter.cs" Line="117" Column="1" />
+      <File FileName="lgpg/components.cs" Line="436" Column="1" />
+      <File FileName="lgpg/highLevelScripter.cs" Line="508" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/maxkhanov/Projects/lgpg/lgpg/highLevelScripter.cs" relfile="lgpg/highLevelScripter.cs" line="479" column="1" />
+      <Breakpoint enabled="false" file="/Users/maxkhanov/Projects/lgpg/lgpg/highLevelScripter.cs" relfile="lgpg/highLevelScripter.cs" line="507" column="1" />
+      <Breakpoint enabled="false" file="/Users/maxkhanov/Projects/lgpg/lgpg/highLevelScripter.cs" relfile="lgpg/highLevelScripter.cs" line="499" column="1" />
+      <Breakpoint enabled="false" file="/Users/maxkhanov/Projects/lgpg/lgpg/highLevelScripter.cs" relfile="lgpg/highLevelScripter.cs" line="487" column="1" />
+      <Breakpoint enabled="false" file="/Users/maxkhanov/Projects/lgpg/lgpg/highLevelScripter.cs" relfile="lgpg/highLevelScripter.cs" line="489" column="1" />
+      <Breakpoint enabled="false" file="/Users/maxkhanov/Projects/lgpg/lgpg/highLevelScripter.cs" relfile="lgpg/highLevelScripter.cs" line="485" column="1" />
+      <Breakpoint file="/Users/maxkhanov/Projects/lgpg/lgpg/highLevelScripter.cs" relfile="lgpg/highLevelScripter.cs" line="508" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.lgpg PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

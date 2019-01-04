@@ -1,0 +1,6 @@
+/Users/maxkhanov/Projects/lgpg/lgpg/bin/Debug/lgpg.exe
+/Users/maxkhanov/Projects/lgpg/lgpg/bin/Debug/lgpg.pdb
+/Users/maxkhanov/Projects/lgpg/lgpg/obj/x86/Debug/lgpg.csproj.CoreCompileInputs.cache
+/Users/maxkhanov/Projects/lgpg/lgpg/obj/x86/Debug/lgpg.exe
+/Users/maxkhanov/Projects/lgpg/lgpg/obj/x86/Debug/lgpg.pdb
+/Users/maxkhanov/Projects/lgpg/lgpg/obj/x86/Debug/lgpg.csprojResolveAssemblyReference.cache
